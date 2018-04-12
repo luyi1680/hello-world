@@ -1,5 +1,4 @@
 # hello-world
-my first repository
 
 
 I know Github is an interesting thing to help me finish my work during my colledge time.
